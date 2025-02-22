@@ -15,8 +15,8 @@ This tutorial guides you through the steps to create resources in Azure, observe
 - Wireshark (Protocol Analyzer)
 
 ## Operating Systems Used:
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows 10 (22H2)
+- Ubuntu Server 24.04
 
 ## Table of Contents
 - [Part 1: Create our Resources](#part-1-create-our-resources)
@@ -52,7 +52,7 @@ This tutorial guides you through the steps to create resources in Azure, observe
    - Observe ping requests and replies within Wireshark.
 
 5. **From the Windows 10 VM**
-   - Open the command line or PowerShell and attempt to ping a public website (such as www.google.com).
+   - Open the command line or PowerShell and attempt to ping a public website (such as www.google.com or www.cisco.com).
    - Observe the traffic in Wireshark.
 
 6. **Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM**
