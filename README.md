@@ -30,6 +30,8 @@ This tutorial guides you through the steps to create resources in Azure, observe
 
 1. **Create a Resource Group in Azure**
 
+<p align="center"><img src="https://i.imgur.com/dgUJVO2.jpeg"/>
+
 2. **Create a Windows 10 Virtual Machine (VM)**
    - While creating the VM, select the previously created Resource Group.
    - Allow it to create a new Virtual Network (Vnet) and Subnet.
@@ -40,6 +42,8 @@ This tutorial guides you through the steps to create resources in Azure, observe
 4. **Observe Your Virtual Network within Network Watcher**
 
 ## Part 2: Observe ICMP Traffic
+
+<p align="center"><img src="https://i.imgur.com/4FAe3jp.png"/>
 
 1. **Use Remote Desktop to connect to your Windows 10 VM**
 
