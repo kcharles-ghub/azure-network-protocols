@@ -75,6 +75,8 @@ This tutorial guides you through the steps to create resources in Azure, observe
 
 ## Part 3: Observe SSH Traffic
 
+<p align="center"><img src="https://i.imgur.com/JbgqUVz.png"/>
+
 1. **Back in Wireshark, filter for SSH traffic only**
 
 2. **From your Windows 10 VM**
@@ -84,6 +86,8 @@ This tutorial guides you through the steps to create resources in Azure, observe
 
 ## Part 4: Observe DHCP Traffic
 
+<p align="center"><img src="https://i.imgur.com/PbjRd32.png"/>
+
 1. **Back in Wireshark, filter for DHCP traffic only**
 
 2. **From your Windows 10 VM**
@@ -92,6 +96,8 @@ This tutorial guides you through the steps to create resources in Azure, observe
 
 ## Part 5: Observe DNS Traffic
 
+<p align="center"><img src="https://i.imgur.com/2UpaPM8.png"/>
+
 1. **Back in Wireshark, filter for DNS traffic only**
 
 2. **From your Windows 10 VM within a command line**
@@ -99,6 +105,8 @@ This tutorial guides you through the steps to create resources in Azure, observe
    - Observe the DNS traffic being shown in Wireshark.
 
 ## Part 6: Observe RDP Traffic
+
+<p align="center"><img src="https://i.imgur.com/ojuO3XE.png"/>
 
 1. **Back in Wireshark, filter for RDP traffic only (`tcp.port == 3389`)**
 
